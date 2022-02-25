@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    margin: 50px 0 100px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.contenido {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.subtema {
+    max-width: 450px;
+    padding: 0 15px 0 15px;
+}
+
+.subtema img {
+    width: 100%;
+    height: 35vh;
+    border-radius: 15px;
+}
+
+.subtema a p,
+.txt {
+    text-align: center;
+}
